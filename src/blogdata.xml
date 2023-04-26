@@ -1,0 +1,38 @@
+<blog>
+	<post>
+		<date>April 25, 2023</date>
+		<author>Kevin Hurler</author>
+		<title>AI-Generated Amazon Reviews Are Beginning to Spread</title>
+		<summary>
+			<image_path>https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_1315/280da2fa104897da6c3d18d17c8fea99.jpg</image_path>
+			<text>From Republican smear campaigns against Biden to a collaboration between The Weeknd and Drake going viral, it feels like AI is coming for every part of our lives. Now, it appears that some products on Amazon are being reviewed with AI chatbots.</text>
+		</summary>
+		<body>According to a report from CNBC, products across the popular web marketplace have reviews that appear to be written with chatbots like ChatGPT. The outlet found these reviews on products including waist trainers, children’s textbooks, car batteries, baby car seat mirrors, and video game controller accessories. Even more jarring is that these reviews make no effort to hide the fact that they were generated with AI, as most reviews begin with the phrase “As an AI language model” before devolving into the fact that a computer has no experience with the product.</body>
+	</post>
+	<post>
+		<date>April 25, 2023</date>
+		<author>Kelly Dickerson</author>
+		<title>Watch Out for Fake ChatGPT Apps and Other Scams in the Mac App Store</title>
+		<summary>
+			<image_path>https://images.macrumors.com/t/pfKl1GYp318uuoqWWc12th094yo=/800x0/article-new/2021/05/Mac-App-Store-General-Feature.jpg?lossy</image_path>
+			<text>There have long been complaints from developers and App Store users about apps that offer limited functionality and charge high prices in an effort to scam people out of their money, and the latest trend is a glut of ChatGPT apps that have invaded the ‌App Store‌.</text>
+		</summary>
+		<body>Privacy 1st researcher Alex Kleber over the weekend did a deep dive into the Mac App Store after noticing an alarming number of ChatGPT apps from the same handful of developers, and he shared his findings on Medium. As Kleber explains, dozens of copycat OpenAI/ChatGPT apps have popped up on the ‌Mac App Store‌, with "shady" developers "flooding" the ‌Mac App Store‌ with apps that are nearly identical to confuse consumers and shut out other developers.
+
+Searching for OpenAI or ChatGPT on the ‌Mac App Store‌ brings up a long list of apps that are offer much of the same functionality, and as Kleber discovered, there are some developers who are gaming the ‌Mac App Store‌ with keywords, misleading marketing tactics, fake reviews, stolen OpenAI logos, and multiples of the same app.</body>
+	</post>
+	<post>
+		<date>April 25, 2023</date>
+		<author>Jon Fingas</author>
+		<title>Apple is reportedly developing an AI health coach for Apple Watch</title>
+		<summary>
+			<image_path>https://s.yimg.com/uu/api/res/1.2/Tj.JJVt1e3OI5gAYibxG5w--~B/Zmk9ZmlsbDtoPTU4Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-10/1b51eff0-4fab-11ed-bdf7-303ecc225182.cf.webp</image_path>
+			<text>Apple devices can already offer health insights, but they might soon tell you just how to improve. Bloomberg sources claim Apple is developing an AI-based health coach, nicknamed Quartz, that draws on Apple Watch data to create personalized programs for exercise, diet and sleep. The offering will reportedly require a subscription and launch sometime in 2024, provided nothing changes.</text>
+		</summary>
+		<body>In the near term, the Health app may become more useful. Apple is finally bringing Health to the iPad with this year's iPadOS 17 release, the insiders say. A further update will supposedly help you track your mood by answering questions about your day. You may also use Health to manage vision issues like nearsightedness. A recent rumor also hinted that Apple may release a journaling app to help document your days, much like Day One.
+
+Apple has already declined to comment. If the claims are accurate, you'll most likely hear about all but the coach at WWDC on June 5th. The company is expected to unveil its long-expected mixed reality headset at the developer event, and rumors suggest the wearable may offer health-related features like a VR edition of Fitness+ and a meditation tool. This initial product would be aimed at developers and power users, but a more affordable follow-up is believed to be in the works.
+
+A coaching app wouldn't be shocking. Apple is still leaning heavily on services to improve its bottom line, and Quartz may be appealing to those who would otherwise pay for a human coach to rethink their habits. Apple has already made health a major selling point for its devices, particularly the Apple Watch. Of course, the coach could further entrench Apple users — you may be less likely to switch to Android if you have to give up your watch and digital trainer at the same time.</body>
+	</post>
+</blog>

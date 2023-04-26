@@ -11,6 +11,16 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  
+}
+@media screen and (max-width: 600px) {
+  .column1 {
+    width: 100% !important;
+  }
+  .column2 {
+    width: 100% !important;
+  }
+ 
 }
 
 .App-header {
@@ -35,4 +45,61 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.header
+{
+	padding: 5px 40px 5px;
+  background: #00C0F0;
+  color: white;
+  font-size: 12px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+.column1 {
+  float: left;
+  width: 80%;
+  padding: 10px;
+ 
+  }
+
+.column2 {
+  float: left;
+  padding: 10px;
+  }
+  
+  .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.navbutton {
+	width:150px;
+  background-color: #00C0F0;
+  border: none;
+  color: white;
+  padding: 10px 20px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.blogheading
+{
+  color:#00C0F0;	
 }
