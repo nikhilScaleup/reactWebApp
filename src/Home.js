@@ -37,8 +37,12 @@ constructor()
  var req = new XMLHttpRequest();
 	  
 	  
-	  req.open("GET", "https://newsapi.org/v2/everything?q=latest%20news&from=2023-04-22&sortBy=publishedAt&apiKey=389c7b906c134277bf82adfeead51e7c", true);
 	  
+    req.open("GET", "https://newsapi.org/v2/everything?q=latest%20news&from=2023-04-22&sortBy=publishedAt&apiKey=", true); /**
+     * 3rd Party API Key is removed 
+     */
+
+
 req.onreadystatechange = () => {
    if (req.readyState === 4) {
         if (req.status === 200 || req.status == 0) {
